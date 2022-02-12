@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Pear-Project/Piri-Frontend/blob/main/assets/piri-logo-beta.png" alt="Piri Beta Logo"/>
+</p>
+
+
+
 # Piri-Frontend
 It is the source code for the GUI frontend of Piri Assistant.
 
